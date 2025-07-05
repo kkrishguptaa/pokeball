@@ -1,0 +1,10 @@
+body {
+  background-color: #52c156;
+  background: url(./background.jpg) no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
